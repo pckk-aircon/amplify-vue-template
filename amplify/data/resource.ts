@@ -26,6 +26,7 @@ const schema = a.schema({
   }),
 
   
+  
   addPost: a
     .mutation()
     .arguments({
